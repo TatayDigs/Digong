@@ -8,7 +8,7 @@
 
 
 
-<details>
+<Details>
  
 - I love gaming
  
@@ -24,7 +24,7 @@
 
 
  <details>
- <summary><b>**View Achievements**</b></summary>
+ <summary><b>Achievements</b></summary>
   
   * Graduated with Honors
    
