@@ -1,2 +1,3 @@
-# Jack
-Final project for CPROG 
+# My Portfolio
+Fnal Project for CPROG
+
