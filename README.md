@@ -8,13 +8,18 @@ Welcome to **Tatay Digs** — a professional coding workspace focused on buildin
 
 ## 🚀 About
 
-Tatay Digs is dedicated to:
+Tatay Digs is an aspiring and growing **professional developer** with hands-on experience in creating modern applications, solving technical problems, and continuously improving programming skills. Passionate about technology and innovation, Tatay Digs aims to become a highly skilled software engineer capable of building powerful and impactful digital solutions.
 
-- Developing high-quality software solutions
-- Writing clean and maintainable code
-- Exploring modern technologies and frameworks
-- Building practical and innovative applications
-- Sharing knowledge and continuous learning
+With experience in:
+
+- Frontend and Backend Development
+- Responsive Web Design
+- API Integration
+- Database Management
+- Automation and Scripting
+- Version Control using Git & GitHub
+
+Every project is an opportunity to gain more real-world experience, improve coding practices, and grow as a professional developer in the tech industry.
 
 ---
 
