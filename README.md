@@ -8,7 +8,7 @@
 
 
 
-<Details>
+<Details><b>
  
 - I love gaming
  
