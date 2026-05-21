@@ -8,9 +8,9 @@ Welcome to **Tatay Digs** — a professional coding workspace focused on buildin
 
 ## 🚀 About
 
-Tatay Digs is an aspiring and growing **professional developer** with hands-on experience in creating modern applications, solving technical problems, and continuously improving programming skills. Passionate about technology and innovation, Tatay Digs aims to become a highly skilled software engineer capable of building powerful and impactful digital solutions.
+Tatay Digs is an aspiring and growing **professional developer from Palawan, Philippines**, with hands-on experience in creating modern applications, solving technical problems, and continuously improving programming skills. Passionate about technology and innovation, Tatay Digs aims to become a highly skilled software engineer capable of building powerful and impactful digital solutions.
 
-With experience in:
+With real-world coding experience in:
 
 - Frontend and Backend Development
 - Responsive Web Design
@@ -19,7 +19,20 @@ With experience in:
 - Automation and Scripting
 - Version Control using Git & GitHub
 
-Every project is an opportunity to gain more real-world experience, improve coding practices, and grow as a professional developer in the tech industry.
+Every project is an opportunity to gain more experience, improve coding practices, and grow professionally in the tech industry.
+
+---
+
+# 💼 Experience
+
+| Role | Experience |
+|------|-------------|
+| Web Developer | Building responsive and modern websites |
+| Frontend Developer | Creating user-friendly interfaces using HTML, CSS, and JavaScript |
+| Backend Developer | Developing APIs and server-side applications |
+| Database Management | Handling MySQL and MongoDB databases |
+| Git & GitHub | Managing repositories and version control |
+| Problem Solving | Debugging, optimizing, and improving applications |
 
 ---
 
@@ -30,4 +43,4 @@ Frontend   : HTML, CSS, JavaScript, React
 Backend    : Node.js, Express, PHP
 Database   : MySQL, MongoDB
 Tools      : Git, GitHub, VS Code
-Other      : REST APIs, Firebase, Linux
+Other      : REST APIs, Firebase, Linuxf
