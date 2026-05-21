@@ -1,16 +1,20 @@
+![😍]()
+
 # **MY PORTFOLIO**
 
   ## *DESCRIPTION*😊
 
- HI MY NAME IS JEX D. MALIBIRAN,I'M 19 YEARS OLD, I LIVE IN PALAWAN, AND I'M STUDYING IN FULLBRUGHT COLLEGE AND FOR TODAYS LESSON IS ABOUT CREATING AN ACCOUNT ON GITHUB AND LEARNING TO DO A README CODE BY DOING A PORTFOLIO FO FINALS.
+ Hi My Name Is Jex D. Malibiran,I'm 19 years old, i live in palawan, and I'm studying in fullbrught college and for todays lesson is about creating an account on github and learning to do a readme code by doing a portfolio fo finals.
+
+
 
 <details>
  
-- I LOVE GAMING
+- I love gaming
  
-- I LOVE PHILIPPINES
+- I love philippines
   
-- LIKE TO READ
+- Like to read
   
 - CHAT GPT
 
@@ -22,11 +26,11 @@
  <details>
  <summary><b>View Achievements</b></summary>
   
-  * Graduated of being mapagmahal
+  * Graduated with Honors
    
-  * Champion ako saamin
+  * Champion in Mlbb tournament 
 
-  * I win the case in ICC
+  * I win the election in SSLG
    
  </details>
 
