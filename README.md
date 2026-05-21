@@ -1,2 +1,2 @@
-# Digong
+# Jack
 Final project for CPROG 
