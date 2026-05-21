@@ -13,6 +13,8 @@
 - LIKE TO READ
   
 - CHAT GPT
+
+- Explorer
   
  </details>
 
