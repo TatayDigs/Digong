@@ -3,7 +3,7 @@
 - I HATE DRUGS
 - ICC
 - ANTI DRUGS
- * I LOVE DAVAO
- * I LOVE DURIAN
+  * I LOVE DAVAO
+  * I LOVE DURIAN
    [SARAH DUTERTE LOVES ME](https://example.com)
    
