@@ -1,13 +1,32 @@
-# **MY PORTFOLIO**[@](https://mindanaojournal.com/wp-content/uploads/2025/03/fprrd2.jpg)
-## TATAY DIGS
-- I HATE DRUGS
-- ICC
-- ANTI DRUGS
-  * I LOVE DAVAO
-  * I LOVE DURIAN
-   [SARAH DUTERTE LOVES ME](https://example.com)
-# **MULING IBALIK ANG PAG IBIG**
-- [UNITEAM](https://i.ytimg.com/vi/mduAk3rcLeM/maxresdefault.jpg)
-# **HINABOL NG NBI**
-- [BATO DELA ROSA](
+# **MY PORTFOLIO**
+<details>
+ 
+- I LOVE GAMING
+ 
+- I LOVE PHILIPPINES
+  
+- LIKE TO READ
+  
+- CHAT GPT
+  
+ </details>
+ 
+ ## *DESCRIPTION*😊
 
+ HI MY NAME IS JEX D. MALIBIRAN,I'M 19 YEARS OLD, I LIVE IN PALAWAN, AND I'M STUDYING IN FULLBRUGHT COLLEGE AND FOR TODAYS LESSON IS ABOUT CREATING AN ACCOUNT ON GITHUB AND LEARNING TO DO A README CODE BY DOING A PORTFOLIO FO FINALS.
+
+
+ <details>
+ <summary><b>View Achievements</b></summary>
+  
+  * Graduated of being mapagmahal
+   
+  * Champion ako saamin
+
+  * I win the case in ICC
+   
+ </details>
+
+ |USER|APP|
+ |-----|--------------|
+ |**github**|**youtube**|
