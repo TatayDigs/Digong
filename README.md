@@ -4,7 +4,7 @@
 
   ## *DESCRIPTION*😊
 
- Hi My Name Is **Jex D. Malibiran**,I'm 19 years old, i live in palawan, and I'm studying in fullbright college and for todays lesson is about creating an account on github and learning to do a readme code by doing a portfolio fo finals.
+ Hi My Name Is **Jex D. Malibiran**,I'm 19 years old, i live in **Palawan**, and I'm studying in fullbright college and for todays lesson is about creating an account on github and learning to do a readme code by doing a portfolio fo finals.
 
 
 
@@ -24,7 +24,7 @@
 
 
  <details>
- <summary><b>View Achievements</b></summary>
+ <summary><b>**View Achievements**</b></summary>
   
   * Graduated with Honors
    
