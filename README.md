@@ -1,16 +1,12 @@
 # 🧑‍💻 My Professional Portfolio
 ## 📌 Personal Information
-
-
  ---
-
-
 * **Name:** Jex D. Malibiran
 * **Age:** 19 Years Old
 * **Location:** Puerto Princesa, Palawan, Philippines 🇵🇭
 * **Education:** College Student at **Fullbright College**
 
-> **About Me:** > Hi! I am Jex, a passionate student explorer with a deep interest in gaming, technology, and AI innovation. This portfolio showcases my journey in learning version control, GitHub, and foundational tech skills as part of my finals project. I love exploring new technologies and leveraging AI tools to solve problems.
+> **About Me:**  Hi! I am Jex, a passionate student explorer with a deep interest in gaming, technology, and AI innovation. This portfolio showcases my journey in learning version control, GitHub, and foundational tech skills as part of my finals project. I love exploring new technologies and leveraging AI tools to solve problems.
 ---
 ## 🛠️ Skills & Technologies
 ### 💻 Technical Skills
