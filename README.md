@@ -1,39 +1,35 @@
-![😍](https://pdplaban.org.ph/wp-content/uploads/2023/05/hero-pd.webp)
-
 # *MY PORTFOLIO*
 
-  ## *DESCRIPTION*😊
+## ## *DESCRIPTION* 😊
 
- Hi My Name Is **Jex D. Malibiran**,I'm 19 years old, i live in **Palawan**, and I'm studying in **Fullbright College** and for todays lesson is about creating an account on github and learning to do a readme code by doing a portfolio fo finals.
+![😍](https://pdplaban.org.ph/wp-content/uploads/2023/05/hero-pd.webp)
 
+Hi! My name is **Jex D. Malibiran**. I am 19 years old and I live in **Palawan**. I am currently studying at **Fullbright College**. 
 
+Today's lesson focuses on creating a GitHub account and learning how to build a README code for my final portfolio project.
 
-<Details>
- 
-- I love gaming
- 
-- I love philippines
-  
-- Like to read
-  
-- CHAT GPT
+---
 
-- Explorer
-  
- </details>
+### 🚀 About Me
 
+<details>
+<summary><b>Click to view my interests</b></summary>
 
- <details>
- <summary><b>Achievements</b></summary>
-  
-  * Graduated with Honors
-   
-  * Champion in Mlbb tournament 
+* 🎮 **Gaming** - Passionate about gaming mechanics and strategy.
+* 🇵🇭 **Philippines** - Proud of my country and culture.
+* 📚 **Reading** - Always looking to learn new things.
+* 🤖 **AI & Tech** - Actively exploring tools like ChatGPT.
+* 🗺️ **Explorer** - Curious about discovering new places and ideas.
 
-  * I win the election in SSLG
-   
- </details>
+</details>
 
- |User|Nickname|Number|
- |-----|--------------|--------|
- |**Jex**|**Tatay Digs**|**09123456789**|
+---
+
+### 🛠️ Tech Stack & Tools
+* **Version Control:** Git / GitHub
+* **Content:** Markdown
+* **AI Tools:** ChatGPT / Gemini
+
+---
+
+*Thank you for visiting my portfolio!*
