@@ -1,35 +1,51 @@
-# *MY PORTFOLIO*
+# 🧑‍💻 My Professional Portfolio
+## 📌 Personal Information
 
-## ## *DESCRIPTION* 😊
 
-![😍](https://pdplaban.org.ph/wp-content/uploads/2023/05/hero-pd.webp)
+ ---
 
-Hi! My name is **Jex D. Malibiran**. I am 19 years old and I live in **Palawan**. I am currently studying at **Fullbright College**. 
 
-Today's lesson focuses on creating a GitHub account and learning how to build a README code for my final portfolio project.
+* **Name:** Jex D. Malibiran
+* **Age:** 19 Years Old
+* **Location:** Puerto Princesa, Palawan, Philippines 🇵🇭
+* **Education:** College Student at **Fullbright College**
+
+> **About Me:** > Hi! I am Jex, a passionate student explorer with a deep interest in gaming, technology, and AI innovation. This portfolio showcases my journey in learning version control, GitHub, and foundational tech skills as part of my finals project. I love exploring new technologies and leveraging AI tools to solve problems.
+---
+## 🛠️ Skills & Technologies
+### 💻 Technical Skills
+* **Version Control:** Git, GitHub
+* **Documentation & Web:** Markdown, Basic HTML
+* **AI & Prompt Engineering:** ChatGPT, Gemini (Content & Logic Exploration)
+### 🎯 Core Interests
+* 🎮 Advanced Gaming Mechanics & Strategy
+* 🗺️ Technical Exploration & Research
+* 📚 Continuous Learning & Reading
+---
+## 🚀 Projects & Contributions
+### 📁 Project 1: GitHub Portfolio Final Project
+* **Description:** Designed and structured a professional GitHub profile README utilizing Markdown and HTML syntax for college finals.
+* **Tech Used:** Markdown, Git, GitHub
+* **Link:** `[View Repository](https://github.com/your-username/your-repo-name)`
+### 📁 Project 2: [Insert Your Future Project Name Here]
+* **Description:** *Placeholder for your next big project (e.g., a simple webpage, a game script, or a database assignment).*
+* **Tech Used:** *Insert Tech (e.g., HTML, CSS, Java)*
+---
+## 📸 Screenshots & Pictures
+Here are some snapshots of my current work, development environment, and project milestones:
+
+| Project View | Code Structure |
+| :--- | :--- |
+| <img src="https://via.placeholder.com/400x250?text=Project+Screenshot+Placeholder" width="100%" alt="Project Screenshot"/> | <img src="https://via.placeholder.com/400x250?text=Code+Snippet+Placeholder" width="100%" alt="Code Snippet"/> |
+| *Description of Image 1* | *Description of Image 2* |
 
 ---
-
-### 🚀 About Me
-
-<details>
-<summary><b>Click to view my interests</b></summary>
-
-* 🎮 **Gaming** - Passionate about gaming mechanics and strategy.
-* 🇵🇭 **Philippines** - Proud of my country and culture.
-* 📚 **Reading** - Always looking to learn new things.
-* 🤖 **AI & Tech** - Actively exploring tools like ChatGPT.
-* 🗺️ **Explorer** - Curious about discovering new places and ideas.
-
-</details>
-
+## 🏆 Certificates & Achievements
+### 📜 Academic & Tech Milestones
+* **Finals Project Completion:** Successfully deployed a fully functional GitHub documentation repository at Fullbright College.
+* **[Insert Future Certificate]:** *Placeholder for certificates you earn (e.g., Coursera, FreeCodeCamp, or School Seminars).*
 ---
-
-### 🛠️ Tech Stack & Tools
-* **Version Control:** Git / GitHub
-* **Content:** Markdown
-* **AI Tools:** ChatGPT / Gemini
-
----
-
-*Thank you for visiting my portfolio!*
+### 🤝 Connect with Me
+* **GitHub:** [@your-username](https://github.com/your-username)
+* **Email:** `your.email@example.com`
+*Thank you for taking the time to view my portfolio! Feel free to explore my repositories.*
